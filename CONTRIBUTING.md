@@ -8,5 +8,5 @@ First off, thank you for engaging in this project meant to support artists and l
 ### Don't Just Start Coding - You Might Ruin the Pot...
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
-###What Kinds of Contributions are We Looking for?
+### What Kinds of Contributions are We Looking for?
 Currently, we are looking for contributions to start the project off the right way. I've never facilitated an Open Source Project so partners is what I am looking for more than anything.
